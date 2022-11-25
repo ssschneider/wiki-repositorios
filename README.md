@@ -22,7 +22,7 @@ Nos foi proposto que criássemos uma wiki com os nossos repositórios, onde o us
 
 ## 🔗 Acesso 
 
-Para acessar a Wiki, basta <a href="#">clicar aqui</a>!
+Para acessar a Wiki, basta <a href="https://wiki-repositorios.vercel.app/">clicar aqui</a>!
 
 ----
 
