@@ -1,8 +1,9 @@
 import styled from "styled-components";
 
 const StyledRepositorio = styled.div`
-    width: fit-content;
+    width: 80%;
     padding: 0 2.4rem;
+    margin: 0 auto;
     height: fit-content;
     display: flex;
     flex-direction: column;
